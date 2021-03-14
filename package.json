@@ -1,6 +1,7 @@
 {
   "name": "babel-plugin-eliminator",
   "version": "0.0.0",
+  "description": "Remove specific named exports",
   "files": [
     "dist"
   ],
@@ -23,5 +24,10 @@
   },
   "peerDependencies": {
     "@babel/core": "^7.13.10"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "EGOIST",
+    "email": "0x142857@gmail.com"
   }
 }
