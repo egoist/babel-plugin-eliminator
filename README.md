@@ -60,11 +60,6 @@ type PluginOpts = {
 }
 ```
 
-## TODO
-
-- [ ] Removing call expressions. 
-
-
 ## Credits
 
 This plugin is essentially a fork of [next.js/next-ssg-transform](https://github.com/vercel/next.js/blob/574fe0b582d5cc1b13663121fd47a3d82deaaa17/packages/next/build/babel/plugins/next-ssg-transform.ts).
