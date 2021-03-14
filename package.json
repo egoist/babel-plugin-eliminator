@@ -6,6 +6,7 @@
     "dist"
   ],
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest",
     "build": "tsup src/index.ts --dts",
